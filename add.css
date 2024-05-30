@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(193, 201, 201);
+}
+strong{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+iframe{
+    border-radius: 20px;
+}
+.addbu{
+    font-size: 20px;
+    background-image: url("images/car1.jpg");
+    border-radius: 5px;
+    padding: 5px;
+   color: white;
+ }
+ 

@@ -1,0 +1,23 @@
+body{
+    
+  
+    color: rgb(0, 0, 0);
+    background-image: url("images/car11.jpg");
+    background-size: 90%;
+    color: white;
+    
+}
+
+li{
+    width: 300px;
+    font-size: 50px;
+    
+}
+.abtbut{
+   font-size: 20px;
+   background-image: url("images/car1.jpg");
+   border-radius: 5px;
+   padding: 5px;
+  color: white;
+}
+
